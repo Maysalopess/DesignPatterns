@@ -1,0 +1,14 @@
+C:\Users\Aluno\Downloads\Cenario4_FreteStrategy\Cenario4_FreteStrategy\bin\Debug\net8.0\Cenario4_FreteStrategy.exe
+C:\Users\Aluno\Downloads\Cenario4_FreteStrategy\Cenario4_FreteStrategy\bin\Debug\net8.0\Cenario4_FreteStrategy.deps.json
+C:\Users\Aluno\Downloads\Cenario4_FreteStrategy\Cenario4_FreteStrategy\bin\Debug\net8.0\Cenario4_FreteStrategy.runtimeconfig.json
+C:\Users\Aluno\Downloads\Cenario4_FreteStrategy\Cenario4_FreteStrategy\bin\Debug\net8.0\Cenario4_FreteStrategy.dll
+C:\Users\Aluno\Downloads\Cenario4_FreteStrategy\Cenario4_FreteStrategy\bin\Debug\net8.0\Cenario4_FreteStrategy.pdb
+C:\Users\Aluno\Downloads\Cenario4_FreteStrategy\Cenario4_FreteStrategy\obj\Debug\net8.0\Cenario4_FreteStrategy.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aluno\Downloads\Cenario4_FreteStrategy\Cenario4_FreteStrategy\obj\Debug\net8.0\Cenario4_FreteStrategy.AssemblyInfoInputs.cache
+C:\Users\Aluno\Downloads\Cenario4_FreteStrategy\Cenario4_FreteStrategy\obj\Debug\net8.0\Cenario4_FreteStrategy.AssemblyInfo.cs
+C:\Users\Aluno\Downloads\Cenario4_FreteStrategy\Cenario4_FreteStrategy\obj\Debug\net8.0\Cenario4_FreteStrategy.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\Downloads\Cenario4_FreteStrategy\Cenario4_FreteStrategy\obj\Debug\net8.0\Cenario4_FreteStrategy.dll
+C:\Users\Aluno\Downloads\Cenario4_FreteStrategy\Cenario4_FreteStrategy\obj\Debug\net8.0\refint\Cenario4_FreteStrategy.dll
+C:\Users\Aluno\Downloads\Cenario4_FreteStrategy\Cenario4_FreteStrategy\obj\Debug\net8.0\Cenario4_FreteStrategy.pdb
+C:\Users\Aluno\Downloads\Cenario4_FreteStrategy\Cenario4_FreteStrategy\obj\Debug\net8.0\Cenario4_FreteStrategy.genruntimeconfig.cache
+C:\Users\Aluno\Downloads\Cenario4_FreteStrategy\Cenario4_FreteStrategy\obj\Debug\net8.0\ref\Cenario4_FreteStrategy.dll

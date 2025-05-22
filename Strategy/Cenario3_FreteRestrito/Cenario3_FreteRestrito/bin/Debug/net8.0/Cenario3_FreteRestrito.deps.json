@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Cenario3_FreteRestrito/1.0.0": {
+        "runtime": {
+          "Cenario3_FreteRestrito.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Cenario3_FreteRestrito/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

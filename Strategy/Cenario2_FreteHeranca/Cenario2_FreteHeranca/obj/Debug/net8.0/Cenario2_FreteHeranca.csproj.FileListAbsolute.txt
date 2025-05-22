@@ -1,0 +1,14 @@
+C:\Users\Aluno\Downloads\Cenario2_FreteHeranca\Cenario2_FreteHeranca\bin\Debug\net8.0\Cenario2_FreteHeranca.exe
+C:\Users\Aluno\Downloads\Cenario2_FreteHeranca\Cenario2_FreteHeranca\bin\Debug\net8.0\Cenario2_FreteHeranca.deps.json
+C:\Users\Aluno\Downloads\Cenario2_FreteHeranca\Cenario2_FreteHeranca\bin\Debug\net8.0\Cenario2_FreteHeranca.runtimeconfig.json
+C:\Users\Aluno\Downloads\Cenario2_FreteHeranca\Cenario2_FreteHeranca\bin\Debug\net8.0\Cenario2_FreteHeranca.dll
+C:\Users\Aluno\Downloads\Cenario2_FreteHeranca\Cenario2_FreteHeranca\bin\Debug\net8.0\Cenario2_FreteHeranca.pdb
+C:\Users\Aluno\Downloads\Cenario2_FreteHeranca\Cenario2_FreteHeranca\obj\Debug\net8.0\Cenario2_FreteHeranca.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aluno\Downloads\Cenario2_FreteHeranca\Cenario2_FreteHeranca\obj\Debug\net8.0\Cenario2_FreteHeranca.AssemblyInfoInputs.cache
+C:\Users\Aluno\Downloads\Cenario2_FreteHeranca\Cenario2_FreteHeranca\obj\Debug\net8.0\Cenario2_FreteHeranca.AssemblyInfo.cs
+C:\Users\Aluno\Downloads\Cenario2_FreteHeranca\Cenario2_FreteHeranca\obj\Debug\net8.0\Cenario2_FreteHeranca.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\Downloads\Cenario2_FreteHeranca\Cenario2_FreteHeranca\obj\Debug\net8.0\Cenario2_FreteHeranca.dll
+C:\Users\Aluno\Downloads\Cenario2_FreteHeranca\Cenario2_FreteHeranca\obj\Debug\net8.0\refint\Cenario2_FreteHeranca.dll
+C:\Users\Aluno\Downloads\Cenario2_FreteHeranca\Cenario2_FreteHeranca\obj\Debug\net8.0\Cenario2_FreteHeranca.pdb
+C:\Users\Aluno\Downloads\Cenario2_FreteHeranca\Cenario2_FreteHeranca\obj\Debug\net8.0\Cenario2_FreteHeranca.genruntimeconfig.cache
+C:\Users\Aluno\Downloads\Cenario2_FreteHeranca\Cenario2_FreteHeranca\obj\Debug\net8.0\ref\Cenario2_FreteHeranca.dll

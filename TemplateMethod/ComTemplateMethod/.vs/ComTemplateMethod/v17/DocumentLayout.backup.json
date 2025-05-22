@@ -1,0 +1,143 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Aluno\\Desktop\\ComTemplateMethod\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4E791F92-BB6B-435B-9DF8-D3B99172A7D2}|ComTemplateMethod\\ComTemplateMethod.csproj|c:\\users\\aluno\\desktop\\comtemplatemethod\\comtemplatemethod\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E791F92-BB6B-435B-9DF8-D3B99172A7D2}|ComTemplateMethod\\ComTemplateMethod.csproj|solutionrelative:comtemplatemethod\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E791F92-BB6B-435B-9DF8-D3B99172A7D2}|ComTemplateMethod\\ComTemplateMethod.csproj|c:\\users\\aluno\\desktop\\comtemplatemethod\\comtemplatemethod\\pagamentos\\pagamentodinheiro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E791F92-BB6B-435B-9DF8-D3B99172A7D2}|ComTemplateMethod\\ComTemplateMethod.csproj|solutionrelative:comtemplatemethod\\pagamentos\\pagamentodinheiro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E791F92-BB6B-435B-9DF8-D3B99172A7D2}|ComTemplateMethod\\ComTemplateMethod.csproj|c:\\users\\aluno\\desktop\\comtemplatemethod\\comtemplatemethod\\pagamentos\\factory\\pagamentofactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E791F92-BB6B-435B-9DF8-D3B99172A7D2}|ComTemplateMethod\\ComTemplateMethod.csproj|solutionrelative:comtemplatemethod\\pagamentos\\factory\\pagamentofactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E791F92-BB6B-435B-9DF8-D3B99172A7D2}|ComTemplateMethod\\ComTemplateMethod.csproj|c:\\users\\aluno\\desktop\\comtemplatemethod\\comtemplatemethod\\pagamentos\\pagamentodebito.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E791F92-BB6B-435B-9DF8-D3B99172A7D2}|ComTemplateMethod\\ComTemplateMethod.csproj|solutionrelative:comtemplatemethod\\pagamentos\\pagamentodebito.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E791F92-BB6B-435B-9DF8-D3B99172A7D2}|ComTemplateMethod\\ComTemplateMethod.csproj|c:\\users\\aluno\\desktop\\comtemplatemethod\\comtemplatemethod\\pagamentos\\pagamentocredito.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E791F92-BB6B-435B-9DF8-D3B99172A7D2}|ComTemplateMethod\\ComTemplateMethod.csproj|solutionrelative:comtemplatemethod\\pagamentos\\pagamentocredito.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E791F92-BB6B-435B-9DF8-D3B99172A7D2}|ComTemplateMethod\\ComTemplateMethod.csproj|c:\\users\\aluno\\desktop\\comtemplatemethod\\comtemplatemethod\\pagamentos\\pagamento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E791F92-BB6B-435B-9DF8-D3B99172A7D2}|ComTemplateMethod\\ComTemplateMethod.csproj|solutionrelative:comtemplatemethod\\pagamentos\\pagamento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E791F92-BB6B-435B-9DF8-D3B99172A7D2}|ComTemplateMethod\\ComTemplateMethod.csproj|c:\\users\\aluno\\desktop\\comtemplatemethod\\comtemplatemethod\\pagamentos\\gatewaypagamento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E791F92-BB6B-435B-9DF8-D3B99172A7D2}|ComTemplateMethod\\ComTemplateMethod.csproj|solutionrelative:comtemplatemethod\\pagamentos\\gatewaypagamento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PagamentoFactory.cs",
+              "DocumentMoniker": "C:\\Users\\Aluno\\Desktop\\ComTemplateMethod\\ComTemplateMethod\\Pagamentos\\Factory\\PagamentoFactory.cs",
+              "RelativeDocumentMoniker": "ComTemplateMethod\\Pagamentos\\Factory\\PagamentoFactory.cs",
+              "ToolTip": "C:\\Users\\Aluno\\Desktop\\ComTemplateMethod\\ComTemplateMethod\\Pagamentos\\Factory\\PagamentoFactory.cs",
+              "RelativeToolTip": "ComTemplateMethod\\Pagamentos\\Factory\\PagamentoFactory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-18T18:18:35.724Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "GatewayPagamento.cs",
+              "DocumentMoniker": "C:\\Users\\Aluno\\Desktop\\ComTemplateMethod\\ComTemplateMethod\\Pagamentos\\GatewayPagamento.cs",
+              "RelativeDocumentMoniker": "ComTemplateMethod\\Pagamentos\\GatewayPagamento.cs",
+              "ToolTip": "C:\\Users\\Aluno\\Desktop\\ComTemplateMethod\\ComTemplateMethod\\Pagamentos\\GatewayPagamento.cs",
+              "RelativeToolTip": "ComTemplateMethod\\Pagamentos\\GatewayPagamento.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-18T18:08:35.298Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PagamentoDinheiro.cs",
+              "DocumentMoniker": "C:\\Users\\Aluno\\Desktop\\ComTemplateMethod\\ComTemplateMethod\\Pagamentos\\PagamentoDinheiro.cs",
+              "RelativeDocumentMoniker": "ComTemplateMethod\\Pagamentos\\PagamentoDinheiro.cs",
+              "ToolTip": "C:\\Users\\Aluno\\Desktop\\ComTemplateMethod\\ComTemplateMethod\\Pagamentos\\PagamentoDinheiro.cs",
+              "RelativeToolTip": "ComTemplateMethod\\Pagamentos\\PagamentoDinheiro.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-18T18:07:00.063Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PagamentoDebito.cs",
+              "DocumentMoniker": "C:\\Users\\Aluno\\Desktop\\ComTemplateMethod\\ComTemplateMethod\\Pagamentos\\PagamentoDebito.cs",
+              "RelativeDocumentMoniker": "ComTemplateMethod\\Pagamentos\\PagamentoDebito.cs",
+              "ToolTip": "C:\\Users\\Aluno\\Desktop\\ComTemplateMethod\\ComTemplateMethod\\Pagamentos\\PagamentoDebito.cs",
+              "RelativeToolTip": "ComTemplateMethod\\Pagamentos\\PagamentoDebito.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-18T18:06:48.11Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PagamentoCredito.cs",
+              "DocumentMoniker": "C:\\Users\\Aluno\\Desktop\\ComTemplateMethod\\ComTemplateMethod\\Pagamentos\\PagamentoCredito.cs",
+              "RelativeDocumentMoniker": "ComTemplateMethod\\Pagamentos\\PagamentoCredito.cs",
+              "ToolTip": "C:\\Users\\Aluno\\Desktop\\ComTemplateMethod\\ComTemplateMethod\\Pagamentos\\PagamentoCredito.cs",
+              "RelativeToolTip": "ComTemplateMethod\\Pagamentos\\PagamentoCredito.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-18T18:06:33.589Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Pagamento.cs",
+              "DocumentMoniker": "C:\\Users\\Aluno\\Desktop\\ComTemplateMethod\\ComTemplateMethod\\Pagamentos\\Pagamento.cs",
+              "RelativeDocumentMoniker": "ComTemplateMethod\\Pagamentos\\Pagamento.cs",
+              "ToolTip": "C:\\Users\\Aluno\\Desktop\\ComTemplateMethod\\ComTemplateMethod\\Pagamentos\\Pagamento.cs",
+              "RelativeToolTip": "ComTemplateMethod\\Pagamentos\\Pagamento.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-18T18:05:29.003Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Aluno\\Desktop\\ComTemplateMethod\\ComTemplateMethod\\Program.cs",
+              "RelativeDocumentMoniker": "ComTemplateMethod\\Program.cs",
+              "ToolTip": "C:\\Users\\Aluno\\Desktop\\ComTemplateMethod\\ComTemplateMethod\\Program.cs",
+              "RelativeToolTip": "ComTemplateMethod\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-18T18:02:12.785Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

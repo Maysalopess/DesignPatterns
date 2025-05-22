@@ -1,0 +1,14 @@
+C:\Users\Aluno\Downloads\Cenario3_FreteRestrito\Cenario3_FreteRestrito\bin\Debug\net8.0\Cenario3_FreteRestrito.exe
+C:\Users\Aluno\Downloads\Cenario3_FreteRestrito\Cenario3_FreteRestrito\bin\Debug\net8.0\Cenario3_FreteRestrito.deps.json
+C:\Users\Aluno\Downloads\Cenario3_FreteRestrito\Cenario3_FreteRestrito\bin\Debug\net8.0\Cenario3_FreteRestrito.runtimeconfig.json
+C:\Users\Aluno\Downloads\Cenario3_FreteRestrito\Cenario3_FreteRestrito\bin\Debug\net8.0\Cenario3_FreteRestrito.dll
+C:\Users\Aluno\Downloads\Cenario3_FreteRestrito\Cenario3_FreteRestrito\bin\Debug\net8.0\Cenario3_FreteRestrito.pdb
+C:\Users\Aluno\Downloads\Cenario3_FreteRestrito\Cenario3_FreteRestrito\obj\Debug\net8.0\Cenario3_FreteRestrito.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aluno\Downloads\Cenario3_FreteRestrito\Cenario3_FreteRestrito\obj\Debug\net8.0\Cenario3_FreteRestrito.AssemblyInfoInputs.cache
+C:\Users\Aluno\Downloads\Cenario3_FreteRestrito\Cenario3_FreteRestrito\obj\Debug\net8.0\Cenario3_FreteRestrito.AssemblyInfo.cs
+C:\Users\Aluno\Downloads\Cenario3_FreteRestrito\Cenario3_FreteRestrito\obj\Debug\net8.0\Cenario3_FreteRestrito.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\Downloads\Cenario3_FreteRestrito\Cenario3_FreteRestrito\obj\Debug\net8.0\Cenario3_FreteRestrito.dll
+C:\Users\Aluno\Downloads\Cenario3_FreteRestrito\Cenario3_FreteRestrito\obj\Debug\net8.0\refint\Cenario3_FreteRestrito.dll
+C:\Users\Aluno\Downloads\Cenario3_FreteRestrito\Cenario3_FreteRestrito\obj\Debug\net8.0\Cenario3_FreteRestrito.pdb
+C:\Users\Aluno\Downloads\Cenario3_FreteRestrito\Cenario3_FreteRestrito\obj\Debug\net8.0\Cenario3_FreteRestrito.genruntimeconfig.cache
+C:\Users\Aluno\Downloads\Cenario3_FreteRestrito\Cenario3_FreteRestrito\obj\Debug\net8.0\ref\Cenario3_FreteRestrito.dll

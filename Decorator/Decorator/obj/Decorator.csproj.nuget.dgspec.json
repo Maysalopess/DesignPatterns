@@ -1,0 +1,68 @@
+{
+  "format": 1,
+  "restore": {
+    "/home/gabrielneto/Área de trabalho/ESCOLA/Padrões de Projeto/Decorator/Decorator.csproj": {}
+  },
+  "projects": {
+    "/home/gabrielneto/Área de trabalho/ESCOLA/Padrões de Projeto/Decorator/Decorator.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/gabrielneto/Área de trabalho/ESCOLA/Padrões de Projeto/Decorator/Decorator.csproj",
+        "projectName": "Decorator",
+        "projectPath": "/home/gabrielneto/Área de trabalho/ESCOLA/Padrões de Projeto/Decorator/Decorator.csproj",
+        "packagesPath": "/home/gabrielneto/.nuget/packages/",
+        "outputPath": "/home/gabrielneto/Área de trabalho/ESCOLA/Padrões de Projeto/Decorator/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/gabrielneto/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net9.0"
+        ],
+        "sources": {
+          "/var/run/host/usr/lib/dotnet/library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net9.0": {
+            "targetAlias": "net9.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.100"
+      },
+      "frameworks": {
+        "net9.0": {
+          "targetAlias": "net9.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/var/run/host/usr/lib/dotnet/sdk/9.0.105/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

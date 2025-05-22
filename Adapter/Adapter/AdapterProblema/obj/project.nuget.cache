@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "aDHr1HPhgtw=",
+  "success": true,
+  "projectFilePath": "/home/gabrielneto/Downloads/AdapterProblema/AdapterProblema/AdapterProblema.csproj",
+  "expectedPackageFiles": [
+    "/home/gabrielneto/.nuget/packages/microsoft.netcore.app.host.linux-x64/6.0.36/microsoft.netcore.app.host.linux-x64.6.0.36.nupkg.sha512"
+  ],
+  "logs": []
+}

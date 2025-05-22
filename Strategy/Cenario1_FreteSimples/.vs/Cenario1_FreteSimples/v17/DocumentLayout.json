@@ -1,0 +1,58 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Aluno\\Downloads\\Cenario1_FreteSimples\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{891F722E-F387-43D1-A758-6503DA445370}|Cenario1_FreteSimples\\Cenario1_FreteSimples.csproj|c:\\users\\aluno\\downloads\\cenario1_fretesimples\\cenario1_fretesimples\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{891F722E-F387-43D1-A758-6503DA445370}|Cenario1_FreteSimples\\Cenario1_FreteSimples.csproj|solutionrelative:cenario1_fretesimples\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{891F722E-F387-43D1-A758-6503DA445370}|Cenario1_FreteSimples\\Cenario1_FreteSimples.csproj|c:\\users\\aluno\\downloads\\cenario1_fretesimples\\cenario1_fretesimples\\pedidos\\pedido.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{891F722E-F387-43D1-A758-6503DA445370}|Cenario1_FreteSimples\\Cenario1_FreteSimples.csproj|solutionrelative:cenario1_fretesimples\\pedidos\\pedido.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Pedido.cs",
+              "DocumentMoniker": "C:\\Users\\Aluno\\Downloads\\Cenario1_FreteSimples\\Cenario1_FreteSimples\\Pedidos\\Pedido.cs",
+              "RelativeDocumentMoniker": "Cenario1_FreteSimples\\Pedidos\\Pedido.cs",
+              "ToolTip": "C:\\Users\\Aluno\\Downloads\\Cenario1_FreteSimples\\Cenario1_FreteSimples\\Pedidos\\Pedido.cs",
+              "RelativeToolTip": "Cenario1_FreteSimples\\Pedidos\\Pedido.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-18T18:28:13.092Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Aluno\\Downloads\\Cenario1_FreteSimples\\Cenario1_FreteSimples\\Program.cs",
+              "RelativeDocumentMoniker": "Cenario1_FreteSimples\\Program.cs",
+              "ToolTip": "C:\\Users\\Aluno\\Downloads\\Cenario1_FreteSimples\\Cenario1_FreteSimples\\Program.cs",
+              "RelativeToolTip": "Cenario1_FreteSimples\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-18T18:27:35.357Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

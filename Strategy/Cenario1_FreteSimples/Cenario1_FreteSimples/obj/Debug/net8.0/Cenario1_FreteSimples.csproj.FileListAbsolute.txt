@@ -1,0 +1,14 @@
+C:\Users\Aluno\Downloads\Cenario1_FreteSimples\Cenario1_FreteSimples\bin\Debug\net8.0\Cenario1_FreteSimples.exe
+C:\Users\Aluno\Downloads\Cenario1_FreteSimples\Cenario1_FreteSimples\bin\Debug\net8.0\Cenario1_FreteSimples.deps.json
+C:\Users\Aluno\Downloads\Cenario1_FreteSimples\Cenario1_FreteSimples\bin\Debug\net8.0\Cenario1_FreteSimples.runtimeconfig.json
+C:\Users\Aluno\Downloads\Cenario1_FreteSimples\Cenario1_FreteSimples\bin\Debug\net8.0\Cenario1_FreteSimples.dll
+C:\Users\Aluno\Downloads\Cenario1_FreteSimples\Cenario1_FreteSimples\bin\Debug\net8.0\Cenario1_FreteSimples.pdb
+C:\Users\Aluno\Downloads\Cenario1_FreteSimples\Cenario1_FreteSimples\obj\Debug\net8.0\Cenario1_FreteSimples.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aluno\Downloads\Cenario1_FreteSimples\Cenario1_FreteSimples\obj\Debug\net8.0\Cenario1_FreteSimples.AssemblyInfoInputs.cache
+C:\Users\Aluno\Downloads\Cenario1_FreteSimples\Cenario1_FreteSimples\obj\Debug\net8.0\Cenario1_FreteSimples.AssemblyInfo.cs
+C:\Users\Aluno\Downloads\Cenario1_FreteSimples\Cenario1_FreteSimples\obj\Debug\net8.0\Cenario1_FreteSimples.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\Downloads\Cenario1_FreteSimples\Cenario1_FreteSimples\obj\Debug\net8.0\Cenario1_FreteSimples.dll
+C:\Users\Aluno\Downloads\Cenario1_FreteSimples\Cenario1_FreteSimples\obj\Debug\net8.0\refint\Cenario1_FreteSimples.dll
+C:\Users\Aluno\Downloads\Cenario1_FreteSimples\Cenario1_FreteSimples\obj\Debug\net8.0\Cenario1_FreteSimples.pdb
+C:\Users\Aluno\Downloads\Cenario1_FreteSimples\Cenario1_FreteSimples\obj\Debug\net8.0\Cenario1_FreteSimples.genruntimeconfig.cache
+C:\Users\Aluno\Downloads\Cenario1_FreteSimples\Cenario1_FreteSimples\obj\Debug\net8.0\ref\Cenario1_FreteSimples.dll

@@ -1,0 +1,14 @@
+C:\Users\Aluno\Desktop\ComTemplateMethod\ComTemplateMethod\bin\Debug\net8.0\ComTemplateMethod.exe
+C:\Users\Aluno\Desktop\ComTemplateMethod\ComTemplateMethod\bin\Debug\net8.0\ComTemplateMethod.deps.json
+C:\Users\Aluno\Desktop\ComTemplateMethod\ComTemplateMethod\bin\Debug\net8.0\ComTemplateMethod.runtimeconfig.json
+C:\Users\Aluno\Desktop\ComTemplateMethod\ComTemplateMethod\bin\Debug\net8.0\ComTemplateMethod.dll
+C:\Users\Aluno\Desktop\ComTemplateMethod\ComTemplateMethod\bin\Debug\net8.0\ComTemplateMethod.pdb
+C:\Users\Aluno\Desktop\ComTemplateMethod\ComTemplateMethod\obj\Debug\net8.0\ComTemplateMethod.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aluno\Desktop\ComTemplateMethod\ComTemplateMethod\obj\Debug\net8.0\ComTemplateMethod.AssemblyInfoInputs.cache
+C:\Users\Aluno\Desktop\ComTemplateMethod\ComTemplateMethod\obj\Debug\net8.0\ComTemplateMethod.AssemblyInfo.cs
+C:\Users\Aluno\Desktop\ComTemplateMethod\ComTemplateMethod\obj\Debug\net8.0\ComTemplateMethod.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\Desktop\ComTemplateMethod\ComTemplateMethod\obj\Debug\net8.0\ComTemplateMethod.dll
+C:\Users\Aluno\Desktop\ComTemplateMethod\ComTemplateMethod\obj\Debug\net8.0\refint\ComTemplateMethod.dll
+C:\Users\Aluno\Desktop\ComTemplateMethod\ComTemplateMethod\obj\Debug\net8.0\ComTemplateMethod.pdb
+C:\Users\Aluno\Desktop\ComTemplateMethod\ComTemplateMethod\obj\Debug\net8.0\ComTemplateMethod.genruntimeconfig.cache
+C:\Users\Aluno\Desktop\ComTemplateMethod\ComTemplateMethod\obj\Debug\net8.0\ref\ComTemplateMethod.dll

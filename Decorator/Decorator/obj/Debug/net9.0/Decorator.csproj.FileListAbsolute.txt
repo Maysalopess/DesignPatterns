@@ -1,0 +1,14 @@
+/home/gabrielneto/Área de trabalho/ESCOLA/Padrões de Projeto/Decorator/bin/Debug/net9.0/Decorator
+/home/gabrielneto/Área de trabalho/ESCOLA/Padrões de Projeto/Decorator/bin/Debug/net9.0/Decorator.deps.json
+/home/gabrielneto/Área de trabalho/ESCOLA/Padrões de Projeto/Decorator/bin/Debug/net9.0/Decorator.runtimeconfig.json
+/home/gabrielneto/Área de trabalho/ESCOLA/Padrões de Projeto/Decorator/bin/Debug/net9.0/Decorator.dll
+/home/gabrielneto/Área de trabalho/ESCOLA/Padrões de Projeto/Decorator/bin/Debug/net9.0/Decorator.pdb
+/home/gabrielneto/Área de trabalho/ESCOLA/Padrões de Projeto/Decorator/obj/Debug/net9.0/Decorator.GeneratedMSBuildEditorConfig.editorconfig
+/home/gabrielneto/Área de trabalho/ESCOLA/Padrões de Projeto/Decorator/obj/Debug/net9.0/Decorator.AssemblyInfoInputs.cache
+/home/gabrielneto/Área de trabalho/ESCOLA/Padrões de Projeto/Decorator/obj/Debug/net9.0/Decorator.AssemblyInfo.cs
+/home/gabrielneto/Área de trabalho/ESCOLA/Padrões de Projeto/Decorator/obj/Debug/net9.0/Decorator.csproj.CoreCompileInputs.cache
+/home/gabrielneto/Área de trabalho/ESCOLA/Padrões de Projeto/Decorator/obj/Debug/net9.0/Decorator.dll
+/home/gabrielneto/Área de trabalho/ESCOLA/Padrões de Projeto/Decorator/obj/Debug/net9.0/refint/Decorator.dll
+/home/gabrielneto/Área de trabalho/ESCOLA/Padrões de Projeto/Decorator/obj/Debug/net9.0/Decorator.pdb
+/home/gabrielneto/Área de trabalho/ESCOLA/Padrões de Projeto/Decorator/obj/Debug/net9.0/Decorator.genruntimeconfig.cache
+/home/gabrielneto/Área de trabalho/ESCOLA/Padrões de Projeto/Decorator/obj/Debug/net9.0/ref/Decorator.dll

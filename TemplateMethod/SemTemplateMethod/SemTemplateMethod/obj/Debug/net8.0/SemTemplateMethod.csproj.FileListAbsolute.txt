@@ -1,0 +1,14 @@
+C:\Users\Aluno\Downloads\SemTemplateMethod\SemTemplateMethod\bin\Debug\net8.0\SemTemplateMethod.exe
+C:\Users\Aluno\Downloads\SemTemplateMethod\SemTemplateMethod\bin\Debug\net8.0\SemTemplateMethod.deps.json
+C:\Users\Aluno\Downloads\SemTemplateMethod\SemTemplateMethod\bin\Debug\net8.0\SemTemplateMethod.runtimeconfig.json
+C:\Users\Aluno\Downloads\SemTemplateMethod\SemTemplateMethod\bin\Debug\net8.0\SemTemplateMethod.dll
+C:\Users\Aluno\Downloads\SemTemplateMethod\SemTemplateMethod\bin\Debug\net8.0\SemTemplateMethod.pdb
+C:\Users\Aluno\Downloads\SemTemplateMethod\SemTemplateMethod\obj\Debug\net8.0\SemTemplateMethod.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aluno\Downloads\SemTemplateMethod\SemTemplateMethod\obj\Debug\net8.0\SemTemplateMethod.AssemblyInfoInputs.cache
+C:\Users\Aluno\Downloads\SemTemplateMethod\SemTemplateMethod\obj\Debug\net8.0\SemTemplateMethod.AssemblyInfo.cs
+C:\Users\Aluno\Downloads\SemTemplateMethod\SemTemplateMethod\obj\Debug\net8.0\SemTemplateMethod.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\Downloads\SemTemplateMethod\SemTemplateMethod\obj\Debug\net8.0\SemTemplateMethod.dll
+C:\Users\Aluno\Downloads\SemTemplateMethod\SemTemplateMethod\obj\Debug\net8.0\refint\SemTemplateMethod.dll
+C:\Users\Aluno\Downloads\SemTemplateMethod\SemTemplateMethod\obj\Debug\net8.0\SemTemplateMethod.pdb
+C:\Users\Aluno\Downloads\SemTemplateMethod\SemTemplateMethod\obj\Debug\net8.0\SemTemplateMethod.genruntimeconfig.cache
+C:\Users\Aluno\Downloads\SemTemplateMethod\SemTemplateMethod\obj\Debug\net8.0\ref\SemTemplateMethod.dll

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Cenario4_FreteStrategy/1.0.0": {
+        "runtime": {
+          "Cenario4_FreteStrategy.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Cenario4_FreteStrategy/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
