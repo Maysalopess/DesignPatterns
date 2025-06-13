@@ -1,0 +1,258 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Aluno\\Downloads\\AbstractFactorySolucao\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9C3F12FD-E7D7-47D2-9433-3F015C8DD42D}|AbstractFactorySolucao\\AbstractFactorySolucao.csproj|c:\\users\\aluno\\downloads\\abstractfactorysolucao\\abstractfactorysolucao\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C3F12FD-E7D7-47D2-9433-3F015C8DD42D}|AbstractFactorySolucao\\AbstractFactorySolucao.csproj|solutionrelative:abstractfactorysolucao\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C3F12FD-E7D7-47D2-9433-3F015C8DD42D}|AbstractFactorySolucao\\AbstractFactorySolucao.csproj|c:\\users\\aluno\\downloads\\abstractfactorysolucao\\abstractfactorysolucao\\model\\boleto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C3F12FD-E7D7-47D2-9433-3F015C8DD42D}|AbstractFactorySolucao\\AbstractFactorySolucao.csproj|solutionrelative:abstractfactorysolucao\\model\\boleto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C3F12FD-E7D7-47D2-9433-3F015C8DD42D}|AbstractFactorySolucao\\AbstractFactorySolucao.csproj|c:\\users\\aluno\\downloads\\abstractfactorysolucao\\abstractfactorysolucao\\factories\\caixacalculosfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C3F12FD-E7D7-47D2-9433-3F015C8DD42D}|AbstractFactorySolucao\\AbstractFactorySolucao.csproj|solutionrelative:abstractfactorysolucao\\factories\\caixacalculosfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C3F12FD-E7D7-47D2-9433-3F015C8DD42D}|AbstractFactorySolucao\\AbstractFactorySolucao.csproj|c:\\users\\aluno\\downloads\\abstractfactorysolucao\\abstractfactorysolucao\\factories\\bbcalculosfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C3F12FD-E7D7-47D2-9433-3F015C8DD42D}|AbstractFactorySolucao\\AbstractFactorySolucao.csproj|solutionrelative:abstractfactorysolucao\\factories\\bbcalculosfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C3F12FD-E7D7-47D2-9433-3F015C8DD42D}|AbstractFactorySolucao\\AbstractFactorySolucao.csproj|c:\\users\\aluno\\downloads\\abstractfactorysolucao\\abstractfactorysolucao\\factories\\icalculosfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C3F12FD-E7D7-47D2-9433-3F015C8DD42D}|AbstractFactorySolucao\\AbstractFactorySolucao.csproj|solutionrelative:abstractfactorysolucao\\factories\\icalculosfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C3F12FD-E7D7-47D2-9433-3F015C8DD42D}|AbstractFactorySolucao\\AbstractFactorySolucao.csproj|c:\\users\\aluno\\downloads\\abstractfactorysolucao\\abstractfactorysolucao\\calculo\\caixadesconto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C3F12FD-E7D7-47D2-9433-3F015C8DD42D}|AbstractFactorySolucao\\AbstractFactorySolucao.csproj|solutionrelative:abstractfactorysolucao\\calculo\\caixadesconto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C3F12FD-E7D7-47D2-9433-3F015C8DD42D}|AbstractFactorySolucao\\AbstractFactorySolucao.csproj|c:\\users\\aluno\\downloads\\abstractfactorysolucao\\abstractfactorysolucao\\calculo\\caixamulta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C3F12FD-E7D7-47D2-9433-3F015C8DD42D}|AbstractFactorySolucao\\AbstractFactorySolucao.csproj|solutionrelative:abstractfactorysolucao\\calculo\\caixamulta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C3F12FD-E7D7-47D2-9433-3F015C8DD42D}|AbstractFactorySolucao\\AbstractFactorySolucao.csproj|c:\\users\\aluno\\downloads\\abstractfactorysolucao\\abstractfactorysolucao\\calculo\\caixajuros.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C3F12FD-E7D7-47D2-9433-3F015C8DD42D}|AbstractFactorySolucao\\AbstractFactorySolucao.csproj|solutionrelative:abstractfactorysolucao\\calculo\\caixajuros.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C3F12FD-E7D7-47D2-9433-3F015C8DD42D}|AbstractFactorySolucao\\AbstractFactorySolucao.csproj|c:\\users\\aluno\\downloads\\abstractfactorysolucao\\abstractfactorysolucao\\calculo\\bbdesconto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C3F12FD-E7D7-47D2-9433-3F015C8DD42D}|AbstractFactorySolucao\\AbstractFactorySolucao.csproj|solutionrelative:abstractfactorysolucao\\calculo\\bbdesconto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C3F12FD-E7D7-47D2-9433-3F015C8DD42D}|AbstractFactorySolucao\\AbstractFactorySolucao.csproj|c:\\users\\aluno\\downloads\\abstractfactorysolucao\\abstractfactorysolucao\\calculo\\bbmulta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C3F12FD-E7D7-47D2-9433-3F015C8DD42D}|AbstractFactorySolucao\\AbstractFactorySolucao.csproj|solutionrelative:abstractfactorysolucao\\calculo\\bbmulta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C3F12FD-E7D7-47D2-9433-3F015C8DD42D}|AbstractFactorySolucao\\AbstractFactorySolucao.csproj|c:\\users\\aluno\\downloads\\abstractfactorysolucao\\abstractfactorysolucao\\calculo\\bbjuros.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C3F12FD-E7D7-47D2-9433-3F015C8DD42D}|AbstractFactorySolucao\\AbstractFactorySolucao.csproj|solutionrelative:abstractfactorysolucao\\calculo\\bbjuros.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C3F12FD-E7D7-47D2-9433-3F015C8DD42D}|AbstractFactorySolucao\\AbstractFactorySolucao.csproj|c:\\users\\aluno\\downloads\\abstractfactorysolucao\\abstractfactorysolucao\\calculo\\idesconto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C3F12FD-E7D7-47D2-9433-3F015C8DD42D}|AbstractFactorySolucao\\AbstractFactorySolucao.csproj|solutionrelative:abstractfactorysolucao\\calculo\\idesconto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C3F12FD-E7D7-47D2-9433-3F015C8DD42D}|AbstractFactorySolucao\\AbstractFactorySolucao.csproj|c:\\users\\aluno\\downloads\\abstractfactorysolucao\\abstractfactorysolucao\\calculo\\imulta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C3F12FD-E7D7-47D2-9433-3F015C8DD42D}|AbstractFactorySolucao\\AbstractFactorySolucao.csproj|solutionrelative:abstractfactorysolucao\\calculo\\imulta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C3F12FD-E7D7-47D2-9433-3F015C8DD42D}|AbstractFactorySolucao\\AbstractFactorySolucao.csproj|c:\\users\\aluno\\downloads\\abstractfactorysolucao\\abstractfactorysolucao\\calculo\\ijuros.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C3F12FD-E7D7-47D2-9433-3F015C8DD42D}|AbstractFactorySolucao\\AbstractFactorySolucao.csproj|solutionrelative:abstractfactorysolucao\\calculo\\ijuros.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Aluno\\Downloads\\AbstractFactorySolucao\\AbstractFactorySolucao\\Program.cs",
+              "RelativeDocumentMoniker": "AbstractFactorySolucao\\Program.cs",
+              "ToolTip": "C:\\Users\\Aluno\\Downloads\\AbstractFactorySolucao\\AbstractFactorySolucao\\Program.cs",
+              "RelativeToolTip": "AbstractFactorySolucao\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-13T16:48:20.765Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Boleto.cs",
+              "DocumentMoniker": "C:\\Users\\Aluno\\Downloads\\AbstractFactorySolucao\\AbstractFactorySolucao\\Model\\Boleto.cs",
+              "RelativeDocumentMoniker": "AbstractFactorySolucao\\Model\\Boleto.cs",
+              "ToolTip": "C:\\Users\\Aluno\\Downloads\\AbstractFactorySolucao\\AbstractFactorySolucao\\Model\\Boleto.cs",
+              "RelativeToolTip": "AbstractFactorySolucao\\Model\\Boleto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-13T16:48:01.068Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CaixaCalculosFactory.cs",
+              "DocumentMoniker": "C:\\Users\\Aluno\\Downloads\\AbstractFactorySolucao\\AbstractFactorySolucao\\Factories\\CaixaCalculosFactory.cs",
+              "RelativeDocumentMoniker": "AbstractFactorySolucao\\Factories\\CaixaCalculosFactory.cs",
+              "ToolTip": "C:\\Users\\Aluno\\Downloads\\AbstractFactorySolucao\\AbstractFactorySolucao\\Factories\\CaixaCalculosFactory.cs",
+              "RelativeToolTip": "AbstractFactorySolucao\\Factories\\CaixaCalculosFactory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-13T16:47:30.395Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "BBCalculosFactory.cs",
+              "DocumentMoniker": "C:\\Users\\Aluno\\Downloads\\AbstractFactorySolucao\\AbstractFactorySolucao\\Factories\\BBCalculosFactory.cs",
+              "RelativeDocumentMoniker": "AbstractFactorySolucao\\Factories\\BBCalculosFactory.cs",
+              "ToolTip": "C:\\Users\\Aluno\\Downloads\\AbstractFactorySolucao\\AbstractFactorySolucao\\Factories\\BBCalculosFactory.cs",
+              "RelativeToolTip": "AbstractFactorySolucao\\Factories\\BBCalculosFactory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-13T16:47:11.923Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ICalculosFactory.cs",
+              "DocumentMoniker": "C:\\Users\\Aluno\\Downloads\\AbstractFactorySolucao\\AbstractFactorySolucao\\Factories\\ICalculosFactory.cs",
+              "RelativeDocumentMoniker": "AbstractFactorySolucao\\Factories\\ICalculosFactory.cs",
+              "ToolTip": "C:\\Users\\Aluno\\Downloads\\AbstractFactorySolucao\\AbstractFactorySolucao\\Factories\\ICalculosFactory.cs",
+              "RelativeToolTip": "AbstractFactorySolucao\\Factories\\ICalculosFactory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-13T16:46:43.827Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CaixaDesconto.cs",
+              "DocumentMoniker": "C:\\Users\\Aluno\\Downloads\\AbstractFactorySolucao\\AbstractFactorySolucao\\Calculo\\CaixaDesconto.cs",
+              "RelativeDocumentMoniker": "AbstractFactorySolucao\\Calculo\\CaixaDesconto.cs",
+              "ToolTip": "C:\\Users\\Aluno\\Downloads\\AbstractFactorySolucao\\AbstractFactorySolucao\\Calculo\\CaixaDesconto.cs",
+              "RelativeToolTip": "AbstractFactorySolucao\\Calculo\\CaixaDesconto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-13T16:46:19.772Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CaixaMulta.cs",
+              "DocumentMoniker": "C:\\Users\\Aluno\\Downloads\\AbstractFactorySolucao\\AbstractFactorySolucao\\Calculo\\CaixaMulta.cs",
+              "RelativeDocumentMoniker": "AbstractFactorySolucao\\Calculo\\CaixaMulta.cs",
+              "ToolTip": "C:\\Users\\Aluno\\Downloads\\AbstractFactorySolucao\\AbstractFactorySolucao\\Calculo\\CaixaMulta.cs",
+              "RelativeToolTip": "AbstractFactorySolucao\\Calculo\\CaixaMulta.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-13T16:45:58.793Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CaixaJuros.cs",
+              "DocumentMoniker": "C:\\Users\\Aluno\\Downloads\\AbstractFactorySolucao\\AbstractFactorySolucao\\Calculo\\CaixaJuros.cs",
+              "RelativeDocumentMoniker": "AbstractFactorySolucao\\Calculo\\CaixaJuros.cs",
+              "ToolTip": "C:\\Users\\Aluno\\Downloads\\AbstractFactorySolucao\\AbstractFactorySolucao\\Calculo\\CaixaJuros.cs",
+              "RelativeToolTip": "AbstractFactorySolucao\\Calculo\\CaixaJuros.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-13T16:45:40.088Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "BBDesconto.cs",
+              "DocumentMoniker": "C:\\Users\\Aluno\\Downloads\\AbstractFactorySolucao\\AbstractFactorySolucao\\Calculo\\BBDesconto.cs",
+              "RelativeDocumentMoniker": "AbstractFactorySolucao\\Calculo\\BBDesconto.cs",
+              "ToolTip": "C:\\Users\\Aluno\\Downloads\\AbstractFactorySolucao\\AbstractFactorySolucao\\Calculo\\BBDesconto.cs",
+              "RelativeToolTip": "AbstractFactorySolucao\\Calculo\\BBDesconto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-13T16:45:15.378Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "BBMulta.cs",
+              "DocumentMoniker": "C:\\Users\\Aluno\\Downloads\\AbstractFactorySolucao\\AbstractFactorySolucao\\Calculo\\BBMulta.cs",
+              "RelativeDocumentMoniker": "AbstractFactorySolucao\\Calculo\\BBMulta.cs",
+              "ToolTip": "C:\\Users\\Aluno\\Downloads\\AbstractFactorySolucao\\AbstractFactorySolucao\\Calculo\\BBMulta.cs",
+              "RelativeToolTip": "AbstractFactorySolucao\\Calculo\\BBMulta.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-13T16:44:48.532Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "BBJuros.cs",
+              "DocumentMoniker": "C:\\Users\\Aluno\\Downloads\\AbstractFactorySolucao\\AbstractFactorySolucao\\Calculo\\BBJuros.cs",
+              "RelativeDocumentMoniker": "AbstractFactorySolucao\\Calculo\\BBJuros.cs",
+              "ToolTip": "C:\\Users\\Aluno\\Downloads\\AbstractFactorySolucao\\AbstractFactorySolucao\\Calculo\\BBJuros.cs",
+              "RelativeToolTip": "AbstractFactorySolucao\\Calculo\\BBJuros.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-13T16:44:17.819Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "IDesconto.cs",
+              "DocumentMoniker": "C:\\Users\\Aluno\\Downloads\\AbstractFactorySolucao\\AbstractFactorySolucao\\Calculo\\IDesconto.cs",
+              "RelativeDocumentMoniker": "AbstractFactorySolucao\\Calculo\\IDesconto.cs",
+              "ToolTip": "C:\\Users\\Aluno\\Downloads\\AbstractFactorySolucao\\AbstractFactorySolucao\\Calculo\\IDesconto.cs",
+              "RelativeToolTip": "AbstractFactorySolucao\\Calculo\\IDesconto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-13T16:43:33.869Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "IMulta.cs",
+              "DocumentMoniker": "C:\\Users\\Aluno\\Downloads\\AbstractFactorySolucao\\AbstractFactorySolucao\\Calculo\\IMulta.cs",
+              "RelativeDocumentMoniker": "AbstractFactorySolucao\\Calculo\\IMulta.cs",
+              "ToolTip": "C:\\Users\\Aluno\\Downloads\\AbstractFactorySolucao\\AbstractFactorySolucao\\Calculo\\IMulta.cs",
+              "RelativeToolTip": "AbstractFactorySolucao\\Calculo\\IMulta.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-13T16:43:14.054Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "IJuros.cs",
+              "DocumentMoniker": "C:\\Users\\Aluno\\Downloads\\AbstractFactorySolucao\\AbstractFactorySolucao\\Calculo\\IJuros.cs",
+              "RelativeDocumentMoniker": "AbstractFactorySolucao\\Calculo\\IJuros.cs",
+              "ToolTip": "C:\\Users\\Aluno\\Downloads\\AbstractFactorySolucao\\AbstractFactorySolucao\\Calculo\\IJuros.cs",
+              "RelativeToolTip": "AbstractFactorySolucao\\Calculo\\IJuros.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-13T16:42:41.394Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
